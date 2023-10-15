@@ -93,12 +93,18 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
  
  
  
- 
+ <div>
+
+ <h2 align="center" > Badges</h2>
+   
+   [![An image of @ali75's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ali75)](https://holopin.io/@ali75)
+   
+ </div>
 
 
 
 
-## I'm Student, Developer, and Teacher!!
+## I'm Student, Developer!!
 
 - 🔭 Diving deep in the programming world
 - 🌱 I’m currently learning everything 🤣
