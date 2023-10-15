@@ -1,20 +1,24 @@
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d686561646572](https://user-images.githubusercontent.com/90936436/226839506-4bae5412-ed2f-47fd-b19f-569d65644be4.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Guys+!;I'm+Ali;Let's+Follow+Each+Other;I'm+a+Sophomore;Computer+Systems+Engineer;Happy+Coding;I'm+a+Pythoneer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Guys+!;I'm+Ali;Let's+Follow+Each+Other;Happy+Coding;I'm+a+Pythoneer+)](https://git.io/typing-svg)
   
-<div>
+<div align= "center">
+<p> Fullstack Web Developer in the making | WordPress Enthusiast | Data Analyst | Frontend Dev </p>
 
 </div>
 <br>
 
-
 <div id="header" align="center">
+  
 <div id="badges">
+  <a href="https://www.upwork.com/services/product/development-it-a-complete-responsive-wordpress-website-1674858364275707904?ref=project_share&tier=0">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/ali-akbar-khan-693776163">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC6AiDug1ad_Lul2XV0c_aAg">
+  <a href="[https://www.youtube.com/channel/UC6AiDug1ad_Lul2XV0c_aAg](https://www.youtube.com/channel/UC6AiDug1ad_Lul2XV0c_aAg)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
  
@@ -56,28 +60,32 @@
   
   
   ### Languages and Tools:
+  <br>
   
-<div>
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
-![py](https://user-images.githubusercontent.com/90936436/179396520-68dae8d3-985c-4089-b68b-775ab792af0a.png)
-![C++i](https://user-images.githubusercontent.com/90936436/179396581-6943e00e-9659-458b-9df3-0a11fae6fa87.png)
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  
-![wp](https://user-images.githubusercontent.com/90936436/179396710-7453d1a7-1791-4133-8dd8-f3b28db59496.png)
-![c![Matlab](https://user-images.githubusercontent.com/90936436/179396773-0aff67e8-9ebb-40e4-9359-302584f7b3ba.png)
-anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9-4d36-913e-579fe80695ee.png)
-![Matlab](https://user-images.githubusercontent.com/90936436/179396828-be052a8d-0007-4943-811c-979389beeece.png)
-![Untitled design (4)](https://user-images.githubusercontent.com/90936436/179396850-48c434a0-5727-4509-86e7-add67072cad6.png)
-  ![photoshop](https://user-images.githubusercontent.com/90936436/179396969-af4843e5-17c9-4445-a93d-f9757d3063cc.png)
-  ![premier](https://user-images.githubusercontent.com/90936436/179396999-b6063dfe-1ee5-4929-bd6b-e8267f9ff5b4.png)
-  
-  
- </div>
 
-
-  
+<br> 
   
  <div >
  
@@ -106,7 +114,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 ## About Me!!
 
-👋 Hi there! I'm Ali, a passionate developer on a journey to conquer the world of web development. With a versatile skill set, I've dabbled in various realms of the digital landscape.
+👋 I'm Ali, a passionate developer on a journey to conquer the world of web development. With a versatile skill set, I've dabbled in various realms of the digital landscape.
 
 🌐 WordPress Dev: I've mastered the art of crafting dynamic and engaging websites using WordPress. From custom themes to plugins, I've got you covered.
 
