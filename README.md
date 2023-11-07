@@ -103,12 +103,21 @@
  
  <div>
 
- <h2 align="center" > Badges</h2>
+ <h2 align="center" > Hectober Fest 2023 Badges</h2>
    
    [![An image of @ali75's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ali75)](https://holopin.io/@ali75)
    
  </div>
+<div>
 
+ <h2 align="center" > Codewars Badges</h2>
+   <img src="https://www.codewars.com/users/Alio175/badges/large" style="max-width: 100%;"> 
+   <img src="https://www.codewars.com/users/Alio175/badges/large" style="max-width: 100%;"> 
+   <img src="https://www.codewars.com/users/Alio175/badges/large" style="max-width: 100%;"> 
+
+
+   
+ </div>
 
 
 
