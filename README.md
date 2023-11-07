@@ -113,7 +113,6 @@
  <h2 align="center" > Codewars Badges</h2>
    <img src="https://www.codewars.com/users/Alio175/badges/large" style="max-width: 100%;"> 
    <img src="https://www.codewars.com/users/Alio175/badges/large" style="max-width: 100%;"> 
-   <img src="https://www.codewars.com/users/Alio175/badges/large" style="max-width: 100%;"> 
 
 
    
