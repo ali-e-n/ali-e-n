@@ -35,7 +35,7 @@
   
   | GitHub Stats | Streak |
 | ------------ | ------ |
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-e-n&layout=compact)](https://github.com/ali-e-n) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-e-n&theme=dark&background=000000)](https://git.io/streak-stats) |
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-e-n&layout=compact)](https://github.com/ali-e-n) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ali-e-n&theme=dark&background=000000)](https://git.io/streak-stats) | 
 
   [![gists-readme](https://gists-readme.yizack.com/api?user=ali-e-n&title=My+Gists&n=30&theme=dark)](https://gist.github.com/ali-e-n)
   
