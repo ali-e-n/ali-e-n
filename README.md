@@ -60,13 +60,11 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
   
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 ---
 
@@ -98,3 +96,42 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 ### Codewars Badge:
 
 ![Codewars Badge](https://www.codewars.com/users/Alio175/badges/large)
+
+### <p align="center">⚙️ My development environment </p>
+
+> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+
+#### 🖥️ Windows PowerUser
+
+Accelerating my workflow and productivity on Windows with the following tools and configurations:
+
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+  </td>
+  <td valign="top" width="50%">
+
+#### 🐧 Linux Enthusiast
+
+I love working with Linux, and I'm always exploring new things in the vast open-source world.
+
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+  </td>
+  </tr>
+  </table>
+</div>
+
