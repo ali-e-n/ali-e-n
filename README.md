@@ -97,6 +97,8 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 ### Codewars Badge:
 
 ![Codewars Badge](https://www.codewars.com/users/Alio175/badges/large)
+---
+
 
 ### <p align="center">⚙️ My development environment </p>
 
