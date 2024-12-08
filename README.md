@@ -79,6 +79,8 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 | -------- | ----------- | ------- |
 | ![Visitor Count](https://profile-counter.glitch.me/{ali-e-n}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=ali-e-n)](https://gist.github.com/ali-e-n) | [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured) |
 
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
 </div>
 
 ---
