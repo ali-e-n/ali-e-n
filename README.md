@@ -1,6 +1,6 @@
 ![Header Image](https://user-images.githubusercontent.com/90936436/226840038-7d4d0d3b-a59c-494f-ac44-840c36312889.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Guys+!;I'm+Ali;Let's+Follow+Each+Other;Happy+Coding;I'm+a+Pythoneer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Guys+!;I'm+Ali;Let's+Follow+Each+Other;Happy+Coding+)](https://git.io/typing-svg)
 
 <div align="center">
   <p>Fullstack Web Developer in the making | Learning Next.js | React & Tailwind CSS </p>
