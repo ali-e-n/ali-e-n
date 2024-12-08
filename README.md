@@ -132,5 +132,13 @@ I love working with Linux, and I'm always exploring new things in the vast open-
   </td>
   </tr>
   </table>
+
+
 </div>
 
+<div align ="center">
+     ♪ 
+
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+</div>
