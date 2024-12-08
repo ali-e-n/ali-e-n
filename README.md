@@ -52,7 +52,6 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 </div>
 
 ---
-
 ### Languages and Tools 🛠️
 
 <div>
@@ -64,8 +63,6 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=tailwind&logoColor=white)
-
----
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -85,7 +82,10 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 </div>
 
 ---
+### My Trophies 🏆
+<img src="https://github-profile-trophy.vercel.app/?username=ali-e-n&theme=juicyfresh&no-bg=false" />
 
+---
 ### Hactoberfest Badges 🎉
 
 [![An image of @ali75's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ali75)](https://holopin.io/@ali75)
