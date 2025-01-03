@@ -44,7 +44,9 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 | ------------ | ------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-e-n&theme=chartreuse-dark)](https://github.com/ali-e-n) | [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-e-n&theme=highcontrast)](https://git.io/streak-stats)|
 
-
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ali-e-n"/></a>
+</p>
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-e-n&show_icons=true&theme=chartreuse-dark)
