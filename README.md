@@ -41,13 +41,13 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 <div align="center">
   
 
-[![GitHub Streak](https://github-readme-streak-stats-mu-jade.vercel.app?user=ali-e-n&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-e-n&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-mu-jade.vercel.app?user=ali-e-n&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-e-n&show_icons=true&theme=dark&hide_border=true&card_width=500&card_height=200)
 
 
 
 ---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-e-n&theme=dark&hide_border=true)](https://github.com/ali-e-n)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-e-n&theme=dark&hide_border=true&card_width=500&card_height=200)](https://github.com/ali-e-n)  
 
 
 </div>
