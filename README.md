@@ -47,7 +47,7 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
 
 
 ---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-e-n&theme=dark&hide_border=true&card_width=500&card_height=200)](https://github.com/ali-e-n)  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ali-e-n)](https://github.com/ali-e-n/github-readme-stats)
 
 
 </div>
