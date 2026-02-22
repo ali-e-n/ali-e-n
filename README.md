@@ -42,11 +42,9 @@ Hi, I'm **Ali**, a passionate developer on a journey to conquer the world of web
   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ali-e-n&theme=modern-lilac2&exclude_days=Sat)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-e-n&show_icons=true&theme=dark&hide_border=true&card_width=500&card_height=200)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ali-e-n?cardType=level&fontFamily=Cambay&preferLogin=false&Points.ContributedToNotOwnerRepositories=100.2&Points.ContributedToOwnRepositories=100.5&Points.PullRequests=98.7)](https://git.io/awesome-stats-card)
 
 
-
----
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ali-e-n&hide=python,cython,PHP,c)](https://github.com/ali-e-n/github-readme-stats)
 
 
